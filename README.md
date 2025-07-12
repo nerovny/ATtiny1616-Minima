@@ -6,7 +6,7 @@ Minimal ATtiny1616 development board.
 [Gerber files](https://github.com/nerovny/ATtiny1616-Minima/tree/main/Gerber%2BNC%20Drill)
 
 - UPDI programming;
-- 5v and 3v3 voltage regulators;
+- 5v and 3v3 800mA voltage regulators;
 - breadboard-friendly 2.54 headers pinout;
 - up to 15v VIN power;
 - big ass reset button.
