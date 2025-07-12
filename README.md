@@ -7,7 +7,7 @@ Minimal ATtiny1616 development board.
 
 - UPDI programming;
 - 5v and 3v3 voltage regulators;
-- breadbord-friendly 2.54 headers pinout;
+- breadboard-friendly 2.54 headers pinout;
 - up to 15v VIN power;
 - big ass reset button.
 
