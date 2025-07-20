@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: TINY1616_PCB.PcbDoc   12.07.2025  23:15:28
+NCDrill File Report For: TINY1616_PCB.PcbDoc   20.07.2025  20:12:00
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,9 +7,10 @@ ASCII RoundHoles File : TINY1616_PCB.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.254mm (10mil)                                           Round             7         PTH        36.61mm (1.44inch)
-T2      1.1mm (43mil)                                             Round             25        PTH        72.39mm (2.85inch)
+T1      0.203mm (8mil)                                            Round             24        PTH        48.79mm (1.92inch)
+T2      0.389mm (15mil)                                           Round             3         PTH        5.08mm (0.20inch)
+T3      0.635mm (25mil)                                           Round             22        PTH        52.32mm (2.06inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              32
+Totals                                                                              49
 
 Total Processing Time (hh:mm:ss) : 00:00:00
