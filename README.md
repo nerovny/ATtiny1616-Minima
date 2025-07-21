@@ -8,6 +8,7 @@ Minimal ATtiny1616 development board.
 
 [Gerber files](Gerber%2BNC%20Drill)
 
+- 15x22mm board;
 - UPDI programming;
 - selectable 5v and 3v3 power with 150mA voltage regulators;
 - up to 16v VIN power;
